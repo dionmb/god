@@ -1,4 +1,4 @@
-module github.com/dionmb/godep
+module github.com/dionmb/god
 
 go 1.16
 
